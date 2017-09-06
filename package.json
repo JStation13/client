@@ -1,0 +1,16 @@
+{
+    "name": "jstation13",
+    "version": "0.0.1-0",
+    "description": "The WebGL client for JStation13",
+    "keywords": [
+        "WebGL",
+        "JStation13",
+        "Game",
+        "Client"
+    ],
+    "homepage": "https://jstation13.github.io",
+    "bugs": "https://github.com/jstation13/client/issues",
+    "license": "MIT",
+    "author": "Adrian J. Collado <acollado@polaritech.com> (https://adriancollado.me)",
+    "repository": "jstation13/client"
+}
